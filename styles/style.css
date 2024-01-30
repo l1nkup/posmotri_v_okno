@@ -48,7 +48,7 @@ ol {
 }
 
 .content {
-  padding: 133px 30px;
+  margin: 133px 30px;
   display: flex;
   gap: 30px;
   justify-content: center;
@@ -84,8 +84,8 @@ ol {
 }
 
 .result__video-container {
-  width: 711px;
-  height: 386px;
+  inline-size: 711px;
+  block-size: 386px;
   margin-bottom: 16px;
   position: relative;
 }
