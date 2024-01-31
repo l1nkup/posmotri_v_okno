@@ -163,6 +163,7 @@ ol {
   align-items: center;
   gap: 5px;
   width: fit-content;
+  cursor: pointer;
 }
 
 .search-form__textfield {
